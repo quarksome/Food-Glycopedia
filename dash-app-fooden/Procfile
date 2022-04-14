@@ -1,1 +1,0 @@
-web: gunicorn dash_app_food_en_v2:server
